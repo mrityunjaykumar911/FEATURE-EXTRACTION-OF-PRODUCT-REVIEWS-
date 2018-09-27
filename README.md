@@ -11,3 +11,6 @@ calculated and corresponding scores are given to public opinions of the productâ
 which could being used to compare between the product based on a particular feature and 
 a statistical output was produced to show the results. The methods used in this project 
 can be used for any specific product with public opinions. 
+
+
+Dataset = "http://snap.stanford.edu/data/web-Amazon-links.html"
